@@ -1,0 +1,1 @@
+## Angular CRUD RES API Typescript and Node.js with MySql
